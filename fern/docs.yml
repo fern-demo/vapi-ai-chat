@@ -1,15 +1,7 @@
 # yaml-language-server: $schema=https://schema.buildwithfern.dev/docs-yml.json
 
 instances:
-  - url: https://vapi.docs.buildwithfern.com
-    custom-domain: docs.vapi.ai
-    edit-this-page:
-      github:
-        owner: VapiAI
-        repo: docs
-        branch: main
-
-announcement:
+  - url: https://vapi-ai.docs.buildwithfern.com
 
 title: Vapi
 favicon: static/images/favicon.ico
